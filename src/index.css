@@ -1,0 +1,57 @@
+* {
+  margin : 0;
+  padding :0;
+  box-sizing: border-box;
+}
+
+.idDog{
+  font-size: 1.5rem;
+  
+}
+
+.increaseP{
+  font-size: 0.75rem;
+}
+
+.flexOne{
+  display: flex;
+  flex-direction: row !important;
+  width: 50%;
+}
+
+.reSizeImage{
+  width: 25%;
+  height: 25%;
+  padding: 10px;
+}
+
+.dogImg{
+  object-fit: fill;
+  height: 275px;
+  display: grid;
+  place-items: baseline;
+  margin: 0 auto !important;
+
+
+}
+
+.flexTwo{
+  text-align: center;
+  
+}
+
+button{
+  font-size: 1rem;
+  font-weight: bolder;
+  padding: 10px;
+  border-radius: 20px;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  height: 2.5vh;
+  display: grid;
+  place-items: center;
+  margin: 0 auto;
+  background-color: rgb(223, 217, 217);
+
+}
+
