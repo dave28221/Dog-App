@@ -2,7 +2,7 @@ Project Title - The Dog FETCHI API application
 
 To initialize the application, first download the zip file, and extract the Dog-App-Main file.
 
-THen, cd into the application using the terminal, and run "npm install".
+Then cd into the application using the terminal, and run "npm install".
 
 After the installation has completed, run "npm start".
 
