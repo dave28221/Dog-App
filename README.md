@@ -1,6 +1,8 @@
 Project Title - The Dog FETCHI API application
 
-To initialize the application, cd into the application using the terminal, and run "npm install"
+To initialize the application, cd into the application using the terminal, and run "npm install".
+
+After the installation has completed, run "npm start".
 
 Description: This small front end React application retrieves an API, and then displays it in a grid format. Upon page refresh, new images and data (of a variety of dog breeds) will be displayed within the grid. Users can access the JSON "breed data" by clicking the "learn more about this dog" button, and then hide the data by clicking the "Hide information" button, placed on the unique image cards.
 
